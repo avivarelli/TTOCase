@@ -1,5 +1,5 @@
 # Receive temporary token BigMamma Id : BigMammaID Access scope needed : employee:admin_void_sale
-https://cloud.lightspeedapp.com/oauth/authorize.php?response_type=code&client_id={BigMamma_id}&scope=employee:admin_void_sale
+# https://cloud.lightspeedapp.com/oauth/authorize.php?response_type=code&client_id={BigMamma_id}&scope=employee:admin_void_sale
 
 # Get a list of all sales in the account BigMamma Id : BigMammaID Access Token : TOUCAN_Access_Token
 import requests
